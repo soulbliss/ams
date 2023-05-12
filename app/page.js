@@ -11,9 +11,9 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <div className={styles.title}>I am having a 25LPA medium sized remote tech play as software engineer by 2023 May Mid</div>
-        <div className={styles.title}>I am having 6 pack abs by 2023 July</div>
-        <div className={styles.title}>I am the creator, maintainer of a knowledge enhancing app used by 10 millions people monthly by 30th June, 2023</div>
+        <div className={styles.title}>I deserve to have a 20 LPA package at medium sized tech company with remote policy working as software engineer by 2023 May Mid</div>
+        <div className={styles.title}>I deserve to have 6 pack abs and maintain a healthy lean fit body by 2023 July</div>
+        <div className={styles.title}>I deserve to be the creator of a knowledge enhancing app used by 10 millions people monthly by 30th June, 2023</div>
       </div>
 
       <div className={styles.grid}>
