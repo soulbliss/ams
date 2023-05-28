@@ -11,9 +11,9 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <div className={styles.title}>I deserve to have a 25 LPA package at medium sized tech company with remote policy working as software engineer by 2023 May Mid</div>
-        <div className={styles.title}>I deserve to have 6 pack abs and maintain a healthy lean fit body by 2023 July</div>
         <div className={styles.title}>I deserve to be the creator of a knowledge enhancing app used by 10 millions people monthly by 30th June, 2023</div>
+        <div className={styles.title}>I deserve to have 6 pack abs and maintain a healthy lean fit body by 2023 July</div>
+        <div className={styles.title}>I got a 15 LPA package at medium sized tech company with hybrid policy working as software engineer by 2023 May Mid ✔️</div>
       </div>
 
       <div className={styles.grid}>
@@ -33,7 +33,7 @@ export default function Home() {
         </a>
 
         <a className={styles.card} target="_blank" rel="noopener noreferrer">
-          <h2>Buy MacBook air</h2>
+          <h2>Got MacBook air ✔️</h2>
           <p>Because desire needs it</p>
         </a>
       </div>
